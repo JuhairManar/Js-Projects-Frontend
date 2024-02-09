@@ -1,0 +1,46 @@
+.main{
+    text-align: center;
+    /* border: 10px; */
+    /* border-style: double; */
+}
+
+.time{
+    text-align: center;
+    /* border: 10px; */
+    /* border-style: double; */
+}
+h1{
+    display: inline;
+    margin: 10px;
+    font-size: 100px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+button{
+    margin: 5px;
+    font-size: 16px;
+    width: 100px;
+    height: 40px; 
+    font-weight: bold;
+}
+
+#start{
+    background-color: green;
+    color:wheat;
+}
+
+#stop{
+    background-color: red;
+    color:wheat;
+}
+
+#restart{
+    background-color: blue;
+    color:wheat;
+}
